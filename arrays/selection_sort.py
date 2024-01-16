@@ -4,6 +4,7 @@ nums = list(map(int,input().split()))
 n = len(nums)
 # 11 25 12 22 64
 
+
 for i in range(n):
     j = i 
     mini = maxsize
