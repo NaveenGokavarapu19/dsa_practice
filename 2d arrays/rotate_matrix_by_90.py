@@ -19,6 +19,7 @@ for row in range(n):
 print(matrix)
 
 
+# for 180 degrees rotation rotate the matrix 2 times 
 # use the below code for clockwise 
 for k in range(n):
     i = 0
