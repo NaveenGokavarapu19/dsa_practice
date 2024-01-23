@@ -7,8 +7,8 @@ nums = list(map(int,input().split()))
 n = len(nums)
 
 
-for row in range(1,len(nums)):
-    j = row
+for index in range(1,len(nums)):
+    j = index
     while(j>=1):
         current_element = nums[j]
         previous_element = nums[j-1]

@@ -1,3 +1,5 @@
+
+
 # this question is for N/2 majority
 
 class Solution:
